@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OXKUqjWNpm7rZhini0dh2ejcQhPK9+ClRWT9sJ6F1wg=",
+  "Source": "Serilog-ASP.NetCore",
+  "BasePath": "_content/Serilog-ASP.NetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
